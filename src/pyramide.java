@@ -1,6 +1,6 @@
 
 public class pyramide {
-	
+
 	public static void main(String[] args) {
 		
 		for(int linie=0; linie<5; linie++) {
@@ -22,11 +22,5 @@ public class pyramide {
 		}
 	
 	}
-		
-		
 
-	
-	
-	}
-
-
+}
